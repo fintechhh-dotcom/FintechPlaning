@@ -268,7 +268,7 @@ else:
                 response = model.generate_content(prompt)
                 
                 # MENAMPILKAN HASIL
-                st.markdown("## 📊 Hasil Analisis ZeniFi AI")
+                st.markdown("## 📊 Hasil Analisis FinTech AI")
                 
                 res_col1, res_col2 = st.columns([1, 2])
                 
